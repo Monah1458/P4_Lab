@@ -1,0 +1,14 @@
+2026-04-07T21:24:48.6061121+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 2.1.0+26fb0d3e539b7900114443db5edf1e0c4e9d4b82
+2026-04-07T21:24:48.6200358+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2026-04-07T21:24:48.6213734+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2026-04-07T21:24:48.6213803+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 21:24:48.581
+2026-04-07T21:24:48.6218084+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 31708
+2026-04-07T21:24:48.6218576+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 9.0.13
+2026-04-07T21:24:48.6218716+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.13\System.Private.CoreLib.dll
+2026-04-07T21:24:48.6218801+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2026-04-07T21:24:48.6219370+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\piecu\source\repos\P4_lab2\ConsoleApp11\bin\Debug\net9.0\Testing.dll
+2026-04-07T21:24:48.6220339+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\piecu\source\repos\P4_lab2\ConsoleApp11\bin\Debug\net9.0\Log --results-directory C:\Users\piecu\source\repos\P4_lab2\TestResults --client-port 64811'
+2026-04-07T21:24:48.6234427+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2026-04-07T21:24:48.6534421+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2026-04-07T21:24:48.6644518+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable: 
+2026-04-07T21:24:48.8493052+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: 'TUnitExtension' Version: '1.28.7.0' DisplayName: 'TUnit' Description: 'TUnit Framework for Microsoft Testing Platform'
